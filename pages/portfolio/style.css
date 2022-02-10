@@ -1,0 +1,38 @@
+.conteudo{
+    display: flex;
+    
+}
+.conteudo2 {
+    margin-top: 80px;
+}
+
+.conteudo img {
+    width: 540px;
+    height: 500px;
+}
+
+.manage, .bookmark, .insure, .fylo {
+    height: 500px;
+    width: 350px;
+    margin: 0 213px 0 125px;
+    padding: 103px 0px 103px 0px;;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+    padding-bottom: 28px;
+}
+
+p {
+    padding-bottom: 54px;
+}
+
+.contato-section {
+    margin-top: 150px;
+}
+
+.two, .four {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
